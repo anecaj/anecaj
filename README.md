@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Necaj</h1>
-<h3 align="center">A Cyber Security student at Rochester Institute of Technology</h3>
+<h3 align="center">A Cyber Security student at New York University</h3>
 
 - 🌱 I’m currently learning **Network Security**
 
